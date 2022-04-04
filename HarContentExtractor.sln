@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarContentExtractor", "HarContentExtractor.csproj", "{36FA0578-735D-4462-81FF-F50731C5D947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FA0578-735D-4462-81FF-F50731C5D947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FA0578-735D-4462-81FF-F50731C5D947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FA0578-735D-4462-81FF-F50731C5D947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FA0578-735D-4462-81FF-F50731C5D947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73D97B2-AA5E-4387-958F-819C7B29F3BA}
+	EndGlobalSection
+EndGlobal
